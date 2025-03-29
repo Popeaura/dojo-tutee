@@ -7,7 +7,11 @@ function App() {
   const link = "http://www.google.com"
 
   return (
-
+<div className="App">
+  <div className="content">
+    
+  </div>
+</div>
   );
 }
 
