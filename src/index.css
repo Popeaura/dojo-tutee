@@ -31,10 +31,15 @@
   text-decoration: none;
   padding: 6px;
 }
-/* Headings */
-h1, h2, h3 {
-  color: #ff8400;
-  text-align: center;
+
+.navbar a:hover{
+  color: #f1356d ;
+}
+
+.content{
+  max-width: 600px;
+  margin: 4px auto;
+  padding:20px;
 }
 
 /* Responsive */
