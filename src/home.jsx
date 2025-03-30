@@ -3,7 +3,7 @@ const Home = () => {
         console.log('Hello Ninjas');
     }
 
-    const handleClickAgain = () =>{
+    const handleClickAgain = (name) =>{
         console.log("Hello Ninjas Again");
     }
 
