@@ -18,31 +18,19 @@
   border-bottom: 1px solid #f2f2f2;
 }
 
-/* Container */
-.container {
-  max-width: 800px;
-  width: 100%;
-  background: white;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+.navbar h1{
+  color: #f1356d;
 }
 
-/* Buttons */
-button {
-  background-color: #ff8400;
-  color: white;
-  border: none;
-  padding: 10px 15px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background 0.3s ease;
+.navbar .links{
+  margin-left: auto;
 }
 
-button:hover {
-  background-color: #ff6600;
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
 }
-
 /* Headings */
 h1, h2, h3 {
   color: #ff8400;
