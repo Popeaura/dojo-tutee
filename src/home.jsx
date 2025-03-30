@@ -12,7 +12,7 @@ const Home = () => {
             <h2>Home Page</h2>
             <button onClick={handleClick}>Click Me </button><br /><br />
             <button onClick={() =>{
-                console.log(object);
+                console.log("Hello");
             }}>Click Me Again</button>
         </div>
      );
