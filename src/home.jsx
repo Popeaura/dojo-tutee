@@ -9,6 +9,11 @@ const Home = () => {
 ])
     return ( 
         <div className="home">
+            {blogs.map((blog) => {
+                <div className="blog-preview">
+                    
+                </div>
+            })}
         </div>
      );
 } 
