@@ -1,5 +1,5 @@
  import Navbar from './Navbar';  
-import Home from './home.jsx'
+ import Home from './home.jsx'
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
 <div className="App">
   <Navbar/>
   <div className="content">
-    <Home/>
+  <Home/>
   </div>
 </div>
   );
