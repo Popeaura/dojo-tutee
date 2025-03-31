@@ -7,21 +7,17 @@ const Home = () => {
 
  const [age, setAge] = useState(19);
 
- const handlClick = () => {
+ const handleClick = () => {
     setName('Luigi ');
+    setAge (21);
 } 
 
- const handlClickAgain = () => {
-    setAge (21);
- }
+
     return ( 
         <div className="home">
             <h2>Home Page</h2>
-            <p>{name}</p>
-            <button onClick={handlClick}>Click Me</button><br /><br />
-
-            <p>{age}</p>
-            <button onClick={handlClickAgain}>Reveal your Age</button>
+            <p>{name} is {age} years  old</p>
+            <button onClick={handleClick}>Click Me</button><br /><br />
         </div>
      );
 } 
