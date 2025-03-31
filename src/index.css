@@ -42,6 +42,12 @@
   padding:50px;
 }
 
+.blog-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
   .container {
