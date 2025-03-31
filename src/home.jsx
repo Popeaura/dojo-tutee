@@ -1,7 +1,7 @@
 const Home = () => {
 
  const handlClick = () => {
-
+    console.log("Hello Ninjas");
  }   
     return ( 
         <div className="home">
