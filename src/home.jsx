@@ -1,8 +1,5 @@
 const Home = () => {
-    const handleClick = () => {
-        console.log('Hello Ninjas');
-    }
-
+ 
     const handleClickAgain = (name) =>{
         console.log("Hello" + " " + name);
     }
