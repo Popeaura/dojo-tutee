@@ -2,9 +2,11 @@ import { useState } from "react";
 
 
 const Home = () => {
+ const [blogs, setBlogst] = useState ([
+    
+ ])
     return ( 
         <div className="home">
-            <h2>Home Page</h2>
         </div>
      );
 } 
