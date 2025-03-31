@@ -1,8 +1,6 @@
 const Home = () => {
  
-    const handleClickAgain = (name) =>{
-        console.log("Hello" + " " + name);
-    }
+  
 
     return ( 
         <div className="home">
