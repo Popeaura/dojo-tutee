@@ -4,5 +4,7 @@ import './index.css';
 import App from '.App';
 
 ReactDom.render (
-    
+    <React.StrictMode>
+        git a
+    </React.StrictMode>
 )
