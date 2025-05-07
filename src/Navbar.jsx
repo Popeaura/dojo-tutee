@@ -2,7 +2,7 @@
 const Navbar = () => {
     return (
         <nav className="navbar">
-        <h1>The Dojo Blog</h1>
+        <h1>The Dojo Blog</h1><br />
         <div className="links">
             <a href="/">Home</a>
             <a href="/create">New Blog </a>
@@ -12,3 +12,4 @@ const Navbar = () => {
 }
  
 export default Navbar;
+
