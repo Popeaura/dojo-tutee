@@ -9,11 +9,12 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "dependencies": {
-<<<<<<< HEAD
+  "dependencies": 
+  {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
+
   "devDependencies": {
     "@eslint/js": "^9.25.0",
     "@types/react": "^19.1.2",
@@ -23,8 +24,7 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
-    "vite": "^6.3.5"
-=======
+    "vite": "^6.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -38,6 +38,5 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
->>>>>>> 0c82a32c3472238ae9f41cfb61d453166bc04955
   }
 }
