@@ -1,6 +1,5 @@
-
 import './App.css';
-
+import Navbar from './Navbar';
 
 function App() {
 
@@ -14,4 +13,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
