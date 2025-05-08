@@ -1,7 +1,4 @@
 import './App.css';
-import Navbar from './Navbar';
-import Hoe from './Home'
-import Home from './Home';
 
 function App() {
 
