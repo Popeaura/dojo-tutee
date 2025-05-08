@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const title =
+  const title ='Welcome to the new Blog'
 
   return (
 <div className="App">
