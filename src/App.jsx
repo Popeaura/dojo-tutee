@@ -8,7 +8,7 @@ function App() {
 <div className="App">
   <div className="content">
     <h1>{title}  </h1>
-    <p>Liked </p>
+    <p>Liked {likes}</p>
   </div>
 </div>
   );
