@@ -3,7 +3,8 @@ const Home = () => {
     const handleClick = () => {
         console.log("Hello Ninjas");
       };
-      
+    
+      const handleClickAgain = 
     return ( 
         <div className="home">
             <h2>HomePage</h2>
