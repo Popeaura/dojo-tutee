@@ -11,7 +11,9 @@ const Home = () => {
         <div className="home">
             <h2>HomePage</h2>
             <button onClick={handleClick}>Click Me</button>
-            <button onClick = {()}>Click Me again</button>
+            <button onClick = {() = {
+                
+            }}>Click Me again</button>
         </div>
      );
 }
