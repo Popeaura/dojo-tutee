@@ -12,7 +12,7 @@ const Home = () => {
             <h2>HomePage</h2>
             <button onClick={handleClick}>Click Me</button>
             <button onClick = {() => {
-                handleClickAgain
+                handleClickAgain ('Mario')
             }}>Click Me again</button>
         </div>
      );
