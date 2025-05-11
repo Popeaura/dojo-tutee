@@ -4,8 +4,8 @@ const Home = () => {
         console.log("Hello Ninjas");
       };
     
-      const handleClickAgain = () =>{
-        
+      const handleClickAgain = (name) =>{
+
       }
     return ( 
         <div className="home">
