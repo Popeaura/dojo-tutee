@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="links">
             <a href="/">Home</a>
             <a href="/create"style={{
-                color : ""
+                color : "white"
             }}>New Blog </a>
         </div>
         </nav>
