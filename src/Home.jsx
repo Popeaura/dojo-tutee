@@ -4,7 +4,9 @@ const Home = () => {
         console.log("Hello Ninjas");
       };
     
-      const handleClickAgain = 
+      const handleClickAgain = () =>{
+        
+      }
     return ( 
         <div className="home">
             <h2>HomePage</h2>
