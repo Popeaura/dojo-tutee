@@ -1,6 +1,6 @@
 const Home = () => {
 
-    const handleClick = 
+    const handleClick = () => 
     return ( 
         <div className="home">
             <h2>HomePage</h2>
