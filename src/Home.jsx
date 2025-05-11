@@ -5,7 +5,7 @@ const Home = () => {
       };
     
       const handleClickAgain = (name) =>{
-        console.log('Hallo' + )
+        console.log('Hallo' + name)
       }
     return ( 
         <div className="home">
