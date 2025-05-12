@@ -1,4 +1,5 @@
 const Home = () => {
+  let name = 
 
     const handleClick = () => {
       };
