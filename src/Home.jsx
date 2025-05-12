@@ -4,8 +4,7 @@ const Home = () => {
   let name = 'Mario';
 
     const handleClick = () => {
-      name = 'Luigi';
-      console.log(name)
+
       };
     
 
