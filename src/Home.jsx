@@ -6,7 +6,7 @@ const Home = () => {
      const [name,setName ]  = useState('Mario')
 
     const handleClick = () => {
-      setName()
+      setName('Luigi');
       };
     
 
