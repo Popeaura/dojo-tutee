@@ -9,6 +9,9 @@ const Home = () => {
       setName('Luigi');
       };
     
+     const handlClick = () => {
+      setAge(19)
+     } 
 
     return ( 
         <div className="home">
