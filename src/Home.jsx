@@ -1,7 +1,7 @@
 const Home = () => {
 
     const handleClick = (e) => {
-        console.log("Hello Ninjas", e);
+        console.log("Hello Ninjas");
       };
     
 
