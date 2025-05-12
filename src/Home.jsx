@@ -2,8 +2,9 @@ import { useState } from "react";
 
 const Home = () => {
 
-  // let name = 'Mario';
-  useState()
+    // let name = 'Mario';
+     useState('')
+
     const handleClick = () => {
 
       };
