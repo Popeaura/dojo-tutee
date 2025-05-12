@@ -1,5 +1,5 @@
 const Home = () => {
-  let name = 
+  let name = 'Mario'
 
     const handleClick = () => {
       };
