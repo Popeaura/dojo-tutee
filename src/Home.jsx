@@ -1,6 +1,6 @@
 const Home = () => {
 
-    const handleClick = () => {
+    const handleClick = (e) => {
         console.log("Hello Ninjas");
       };
     
