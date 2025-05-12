@@ -2,7 +2,7 @@ const Home = () => {
   let name = 'Mario';
 
     const handleClick = () => {
-      name = 'Luigi'
+      name = 'Luigi';
       };
     
 
