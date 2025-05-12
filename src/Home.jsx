@@ -9,10 +9,7 @@ const Home = () => {
       setName('Luigi');
       };
     
-     const handlClick = () => {
-      setAge('19');
-     } 
-
+   
     return ( 
         <div className="home">
             <h2>HomePage</h2>
