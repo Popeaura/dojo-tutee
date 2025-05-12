@@ -3,6 +3,7 @@ const Home = () => {
 
     const handleClick = () => {
       name = 'Luigi';
+      console.log(name)
       };
     
 
