@@ -3,7 +3,7 @@ import { useState } from "react";
 const Home = () => {
 
     // let name = 'Mario';
-     const [name, ]  = useState('Mario')
+     const [name,setName ]  = useState('Mario')
 
     const handleClick = () => {
 
