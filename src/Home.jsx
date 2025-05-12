@@ -1,7 +1,6 @@
 const Home = () => {
 
     const handleClick = () => {
-        console.log("Hello Ninjas");
       };
     
 
