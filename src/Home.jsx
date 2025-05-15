@@ -11,6 +11,9 @@ const Home = () => {
    
     return ( 
         <div className="home">
+          {blogs.map(() = >(
+            
+          ))}
         </div>
      );
 }
