@@ -1,6 +1,8 @@
 const BlogList = (props) => {
     const blogs = props.blogs;
 
+    console.log(props, blogs)
+
    
     return ( 
 
@@ -15,4 +17,4 @@ const BlogList = (props) => {
      );
 }
  
-export default BlogList; 
+export default BlogList;
