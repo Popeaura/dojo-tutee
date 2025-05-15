@@ -15,4 +15,4 @@ const BlogList = (props) => {
      );
 }
  
-export default ;
+export default BlogList; 
