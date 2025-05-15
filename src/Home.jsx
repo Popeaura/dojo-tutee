@@ -2,7 +2,9 @@ import { useState } from "react";
 
 const Home = () => {
 
-  const  [blogs, setBlogs] = useState()
+  const  [blogs, setBlogs] = useState([
+    
+  ])
    
     return ( 
         <div className="home">
