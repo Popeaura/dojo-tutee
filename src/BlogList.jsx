@@ -10,7 +10,7 @@ const  [blogs, setBlogs] = useState([
    
     return ( 
 
-     <div className="home">
+     <div className="blog-list">
         {blogs.map((blog) => (
         <div className="blog-preview" key={blog.id}>
               <h2>{blog.title}</h2> 
