@@ -3,7 +3,9 @@
 const Home = () => {
 
     return ( 
-     <BlogList/>
+     <div className="home">
+      <BlogList/>
+     </div>
      );
 }
  
