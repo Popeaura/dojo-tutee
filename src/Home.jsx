@@ -10,7 +10,6 @@ const Home = () => {
 
   return (
     <div className="home">
-      <BlogList blogs={blogs} />
     </div>
   );
 }
