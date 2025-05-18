@@ -2,4 +2,4 @@ const  BlogList= () => {
     return (  );
 }
  
-export default ;
+export default BlogList;
