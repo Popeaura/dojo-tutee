@@ -10,8 +10,8 @@ const Home = () => {
 
   return (
     <div className="home">
-      <BlogList blogs ={blogs}/>
-    </div>
+      <BlogList blogs ={blogs} title = "/>
+    </div> 
   );
 }
 
